@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&..');
+body{
+    margin: 0;
+    }
+
+#header{
+    height: 82px;
+}
+
+.munlg{
+    height: 56px;
+    margin-top: 33px;
+    margin-left: 48px;
+    margin-right: 48px;
+
+
+}
+
+nav{
+    position: absolute;
+    height: 56px;
+    margin-left: 65%;
+    margin-right: 48px;
+    margin-top: 0px;
+
+}
+
+nav a{
+    height: 27px;
+    margin-left: 23px;
+    right: 91.15%;
+    top: 15.2px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26.6px;
+    text-decoration: none;
+
+
+    color: #041011;
+}
+
+.logo{
+    position: absolute;
+    height: 56px;
+    left: 48px;
+    right: 92.04%;
+    top: 10.2px;
+
+    border-radius: 0px;
+}
+
+.batt{
+
+    height: 56px;
+    width: 144px;
+
+
+    color: white;
+    background: #007188;
+    border-radius: 5px;
+    border: 16px solid #007188
+     
+
+}
+
+.image{
+    margin-left: 56.5%;
+}
+
+
+.content{
+    height: 72px;
+    left: 0%;
+    right: 10%;
+    top: -8.89px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 71px;
+}
+
+.backg{
+    background: #FFF3F1;
+}
